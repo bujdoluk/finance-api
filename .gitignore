@@ -1,0 +1,12 @@
+# Ignore enviroment variables
+*.envrc
+
+# Ignore Go binaries
+*.exe
+*.exe~
+*.dll
+*.so
+*.dylib
+
+# Ignore build directory
+/bin
